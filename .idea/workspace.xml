@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81ea849e-f87b-4aef-a9d9-4877af11ed93" name="Default Changelist" comment="iii">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ivansun" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ivan1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MbxMocoApp.Settings">
+    <option name="mocoDomain" value="domain" />
+  </component>
+  <component name="ProjectId" id="1VTzDRyLYXaeXtJP9SYbMDXycj5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JAVAautotest\src\main\resources\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\JAVAautotest\src\main\resources\driver" />
+      <recent name="G:\JAVAautotest\src\main\java\com\course\testng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HelloJava.primeNumber2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJava.nineNineTable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JAVAautotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.java" />
+      <option name="MAIN_CLASS_NAME" value="com.course.java.HelloJava" />
+      <option name="METHOD_NAME" value="nineNineTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJava.primeNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JAVAautotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.java" />
+      <option name="MAIN_CLASS_NAME" value="com.course.java.HelloJava" />
+      <option name="METHOD_NAME" value="primeNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJava.primeNumber2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JAVAautotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.java" />
+      <option name="MAIN_CLASS_NAME" value="com.course.java.HelloJava" />
+      <option name="METHOD_NAME" value="primeNumber2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJava.scaner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JAVAautotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.java" />
+      <option name="MAIN_CLASS_NAME" value="com.course.java.HelloJava" />
+      <option name="METHOD_NAME" value="scaner" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.main" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="JAVAautotest" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.suite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.course.testng.suite" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.suite.LoginTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.HelloJava.scaner" />
+      <item itemvalue="TestNG.LoginTest.main" />
+      <item itemvalue="TestNG.HelloJava.nineNineTable" />
+      <item itemvalue="TestNG.HelloJava.primeNumber" />
+      <item itemvalue="TestNG.HelloJava.primeNumber2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HelloJava.primeNumber2" />
+        <item itemvalue="TestNG.HelloJava.primeNumber" />
+        <item itemvalue="TestNG.HelloJava.nineNineTable" />
+        <item itemvalue="TestNG.LoginTest.main" />
+        <item itemvalue="TestNG.HelloJava.scaner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81ea849e-f87b-4aef-a9d9-4877af11ed93" name="Default Changelist" comment="" />
+      <created>1577291752359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577291752359</updated>
+      <workItem from="1577291758308" duration="1105000" />
+      <workItem from="1577292903225" duration="922000" />
+      <workItem from="1577374760698" duration="2200000" />
+      <workItem from="1578231672388" duration="1139000" />
+      <workItem from="1578233597290" duration="2482000" />
+      <workItem from="1578583622903" duration="1173000" />
+      <workItem from="1578585101892" duration="3034000" />
+      <workItem from="1578744474106" duration="3243000" />
+      <workItem from="1579015123932" duration="593000" />
+      <workItem from="1579424190883" duration="3688000" />
+      <workItem from="1579433011729" duration="2164000" />
+      <workItem from="1582512891418" duration="126000" />
+      <workItem from="1582513119865" duration="74000" />
+      <workItem from="1620533580628" duration="220000" />
+      <workItem from="1620533850822" duration="209000" />
+      <workItem from="1620534097115" duration="9522000" />
+      <workItem from="1620646723565" duration="2327000" />
+      <workItem from="1620658526138" duration="633000" />
+      <workItem from="1620742944473" duration="2620000" />
+      <workItem from="1620817782962" duration="983000" />
+      <workItem from="1620831023355" duration="5936000" />
+    </task>
+    <task id="LOCAL-00001" summary="iii">
+      <created>1578234291399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578234291399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="iii">
+      <created>1620836424670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620836424670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iii" />
+    <option name="LAST_COMMIT_MESSAGE" value="iii" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

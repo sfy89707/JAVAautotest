@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name="runALL">
+    <classes name="login">
+        <class name="com.course.testng.suite.SuiteConfig"/>
+        <class name="com.course.testng.suite.LoginTest"/>
+    </classes>
+
+    </test>
+
+    <test>
+
+        <groups>
+            <run>
+                <include name="stu"/>
+            </run>
+        </groups>
+
+
+    </test>
+
+</suite>
