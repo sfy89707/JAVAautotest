@@ -202,11 +202,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.ArrayTest.sortBB" />
-      <item itemvalue="TestNG.ArrayTest.objectNew" />
       <item itemvalue="Application.OOP2" />
       <item itemvalue="Application.Newly" />
       <item itemvalue="Application.CBBB" />
+      <item itemvalue="TestNG.ArrayTest.sortBB" />
+      <item itemvalue="TestNG.ArrayTest.objectNew" />
     </list>
     <recent_temporary>
       <list>
