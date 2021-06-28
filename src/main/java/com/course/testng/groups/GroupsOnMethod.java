@@ -1,44 +1,35 @@
 package com.course.testng.groups;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.*;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-
-public class GroupsOnMethod {
-    public static void main(String[] args) {
-        WebDriver driver;
-//        System.setProperty("webdriver.firefox.marionette","G:\\JAVAautotest\\src\\main\\resources\\driver\\geckodriver.exe");
-        System.setProperty("webdriver.chrome.driver","G:\\JAVAautotest\\src\\main\\resources\\driver\\chromedriver.exe");
-//        driver = new FirefoxDriver();
-        driver = new ChromeDriver();
-        driver.get("http://www.baidu.com");
-
-    }
-
+@Listeners({TestNGListenerScreenShot.class})
+public class GroupsOnMethod extends BaseDriver {
     @Test
-    public void test1(){
+    public void initDriverChrome(){
+//        System.setProperty("webdriver.gecko.driver","G:\\Java-Project\\java-service\\src\\main\\resources\\driver\\geckodriver.exe");
+        System.setProperty("webdriver.chrome.driver","G:\\Java-Project\\java-service\\src\\main\\resources\\driver\\chromedriver.exe");
+//        WebDriver driver = new FirefoxDriver();
 
-        System.setProperty("webdriver.gecko.driver","G:\\JAVAautotest\\src\\main\\resources\\driver\\geckodriver.exe");
-//        System.setProperty("webdriver.chrome.driver","G:\\JAVAautotest\\src\\main\\resources\\driver\\chromedriver.exe");
-        WebDriver driver = new FirefoxDriver();
-//       WebDriver driver = new ChromeDriver();
         try {
             Thread.sleep(3000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        driver.get("http://www.baidu.com");
+        driver.get("http://www.imooc.com");
+        driver.manage().window().maximize();
+        driver.quit();
     }
 
 
-    public void test2(){
-
+    public void loginScript(){
+        driver.findElement(By.id("js-signin-btn")).click();
+        WebElement user = driver.findElement(By.name("email"));
+        user.isDisplayed();
+        WebElement password = driver.findElement(By.name("password"));
+        password.isDisplayed();
     }
 
-    public void test3(){
-
-    }
 
     public void test4(){
 

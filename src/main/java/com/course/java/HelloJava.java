@@ -162,14 +162,22 @@ public class HelloJava {
         long endTime = System.currentTimeMillis();
         System.out.println(endTime-statTime);
     }
+
     public static char readNumbers(){
-    char c;
+    char c = 0;
     String str = "abc";
-    c = str.charAt(0);
-        return c;
+        try {
+            c = str.charAt(0);
+            return c;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return c;
+        }
 
     }
     public void yinZi(){
+
+
         //完数
         int factor = 0;
         for (int i = 1; i <= 1000; i++) {
@@ -183,5 +191,7 @@ public class HelloJava {
             }
             factor = 0;
         }
+
     }
+    
 }

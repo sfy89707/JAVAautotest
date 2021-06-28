@@ -2,21 +2,22 @@
 <suite name="test">
     <test name="runALL">
     <classes name="login">
-        <class name="com.course.testng.suite.SuiteConfig"/>
-        <class name="com.course.testng.suite.LoginTest"/>
+<!--        <class name="com.course.testng.suite.SuiteConfig"/>-->
+<!--        <class name="com.course.testng.suite.LoginTest"/>-->
+        <class name="com.course.testng.groups.GroupsOnMethod"/>
     </classes>
 
     </test>
 
-    <test>
+<!--    <test>-->
 
-        <groups>
-            <run>
-                <include name="stu"/>
-            </run>
-        </groups>
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="stu"/>-->
+<!--            </run>-->
+<!--        </groups>-->
 
 
-    </test>
+<!--    </test>-->
 
 </suite>

@@ -5,7 +5,7 @@ package com.course.java;
  * @create 2021-05-21 17:38
  */
 
-public class JUnitTest {
+public class JUnitTest extends HelloJava{
 
 
     public void testEquals(){
